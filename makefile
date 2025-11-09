@@ -1,5 +1,3 @@
-# Makefile pour générer le README.md
-
 README.md: guessinggame.sh
 	echo "# Projet Guessing Game" > README.md
 	echo "" >> README.md
